@@ -60,7 +60,7 @@ body {
 .mainContent input[type="text"]:focus,
 .mainContent input[type="password"]:focus {
     width: 280px;
-    border-color: #88ddff;
+    border-color: #72d7ff;
 }
 
 .mainContent button {
@@ -78,5 +78,5 @@ body {
 }
 
 .mainContent button:hover {
-    background: #88ddff;
+    background: #72d7ff;
 }
