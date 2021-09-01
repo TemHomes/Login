@@ -78,5 +78,6 @@ body {
 }
 
 .mainContent button:hover {
+    border-color: #72d7ff;
     background: #72d7ff;
 }
